@@ -1,0 +1,13 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar"
+        ],
+        "exclude": [
+            "/Users/raffaeledellacorte/Downloads/apache-activemq-5.16.6/activemq-all-5.16.6.jar",
+            "/Users/raffaeledellacorte/Library/CloudStorage/OneDrive-UniversitàdiNapoliFedericoII/Courses/UNINA/Advanced Computer Programming/Corso 2024-25 - 9 CFU/Esercizi/02_Java/06_java_gRPC/java_grpc_dependencies/failureaccess-1.0.jar",
+            "/Users/raffaeledellacorte/Library/CloudStorage/OneDrive-UniversitàdiNapoliFedericoII/Courses/UNINA/Advanced Computer Programming/Corso 2024-25 - 9 CFU/Esercizi/02_Java/06_java_gRPC/java_grpc_dependencies/grpc-core-1.73.0.jar",
+            "/Users/raffaeledellacorte/Library/CloudStorage/OneDrive-UniversitàdiNapoliFedericoII/Courses/UNINA/Advanced Computer Programming/Corso 2024-25 - 9 CFU/Esercizi/02_Java/06_java_gRPC/java_grpc_dependencies/grpc-netty-shaded-1.73.0.jar"
+        ]
+    }
+}
