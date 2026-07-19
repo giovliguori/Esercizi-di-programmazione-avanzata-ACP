@@ -15,6 +15,7 @@ Indice:
   - 03_Esercitazione_ProxySkeleton_STOMP-JMS_deposito-preleva
   - 04_Esercitazione_STOMP-JMS_gRPC_deposito-preleva
 
+
 2. Esercizi
 - Python
    - 01_python_intro
